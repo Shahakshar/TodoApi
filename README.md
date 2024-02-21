@@ -1,6 +1,6 @@
-# I Share Some Of The Images For Api Request How U Can Hit The Endpoint Of Api In Postman
+# I have shared some images for an API request. Here's how you can hit the API endpoint in Postman.
 
-## (1) This is just an intro to api
+## (1) This is just an intro to Api
 ![Project Intro](https://github.com/Shahakshar/TodoApi/assets/72061051/ed7307f3-c383-4355-b5a0-f0ea55bf401b)
 
 ## (2) Get all Todos From your MongoDB database
